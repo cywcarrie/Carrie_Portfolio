@@ -1,9 +1,8 @@
 # Yu-Wei Chen
 # Carrie's Portfolio
 
-[**Kaggle**](https://www.kaggle.com/carriech) 
 
-[**Tableau**](https://public.tableau.com/app/profile/carrie.chen5593#!/?newProfile=&activeTab=0)
+
 
 
 # [Projects 1 - EDA: Covid-19 Analysis - World](https://www.kaggle.com/carriech/covid-19-analysis-plotly)
