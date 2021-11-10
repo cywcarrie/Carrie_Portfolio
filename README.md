@@ -1,4 +1,5 @@
-# Carrie_Portfolio
+# Yu-Wei Chen
+# Carrie's Portfolio
 
 [**Kaggle**](https://www.kaggle.com/carriech) 
 
