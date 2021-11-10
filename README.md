@@ -1,4 +1,3 @@
-# Carrie_Portfolio
 # Yu-Wei(Carrie) Chen
 
 
@@ -14,7 +13,7 @@ Here you will find key maps and charts explaining how the virus has spread aroun
 # [Project 3 - EDA: Netflix Movies and TV Shows](https://www.kaggle.com/carriech/netflix-eda)
 **Kaggle's data analysis is one of my first shared Jupyter notebooks. Here you will find my analysis and visualization about Movie and TV Shows on Netflix which is one of the most popular media and video streaming platforms.**
 
-# [Project 4 -TOKYO 2020 Paralympic Games with Visualization](https://www.kaggle.com/carriech/paralympic-2020-data-viz-animated-maps)
+# [Project 4 - TOKYO 2020 Paralympic Games with Visualization](https://www.kaggle.com/carriech/paralympic-2020-data-viz-animated-maps)
 **Kaggle's data analysis is a notebook about the medals of Tokyo 2020 Paralympic Games in 2021. Here you will find key charts and Interactive maps explaining the distribution of Paralympic medals in the world.**
 
 # [Project 5 - Forbes Billionaires of 2021 with Visualization](https://www.kaggle.com/carriech/forbes-billionaires-of-2021-plotly-and-map)
