@@ -8,7 +8,7 @@
 Here you will find key maps and charts explaining how the virus has spread around the world, and you can find my analysis and visualization about exploring the statistics on the coronavirus pandemic for some countries including United States of America, China and United Kingdom.**
 
 # [Project 2 - EDA: Kaggle's annual Machine Learning and Data Science Survey - 2021](https://www.kaggle.com/carriech/kaggle-survey-2021-plotly-dropdown-menu)
-**Kaggle's data analysis is a notebook about Kaggle's annual Machine Learning and Data Science Survey. Here you will find my analysis and visualization explaining the results of this survey including background, occupation, experience and skills, machine learning and most used platforms and media sources.**
+**Kaggle's data analysis is a notebook about Kaggle's annual Machine Learning and Data Science Survey. Here you will find my analysis and visualization explaining the results of this survey including background, occupation, experience and skills, machine learning, most used platforms and media sources.**
 
 # [Project 3 - EDA: World Happiness Report Analysis - 2021](https://www.kaggle.com/carriech/eda-whr-2021-using-plotly)
 **Kaggle's data analysis is one of my first shared Jupyter notebooks. Here you will find my analysis and visualization about the state of happiness in the world in 2021.**
