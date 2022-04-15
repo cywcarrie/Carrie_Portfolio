@@ -1,7 +1,7 @@
 # Carrie Chen
 
 
-
+# [Data Visualization - Tableau](https://public.tableau.com/app/profile/carrie.chen5593#!/?newProfile=&activeTab=0)
 
 # [Project 1 - EDA: Covid-19 Analysis - World](https://www.kaggle.com/carriech/covid-19-analysis-plotly)
 **Kaggle's data analysis is a notebook about Coronavirus disease 2019 around the world.
